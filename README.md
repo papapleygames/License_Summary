@@ -1,3 +1,3 @@
 # License_Summary
 
-Page link: papapleygames.github.io/license_summary
+Page link: https://www.papapleygames.github.io/License_Summary
